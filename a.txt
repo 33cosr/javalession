@@ -1,0 +1,2 @@
+123.jpg  a.txt	abc.txt    bin	    copy.jpg	  ljj.txt
+321.jpg  abc	abc_2.txt  cba.txt  copy_abc.txt  src
